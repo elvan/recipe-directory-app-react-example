@@ -1,5 +1,21 @@
 # Recipe Directory
 
+![Screenshot](https://raw.githubusercontent.com/elvan/recipe-directory-app-react-example/main/_screenshots_/Screenshot%202024-02-20%20213849.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/recipe-directory-app-react-example/main/_screenshots_/Screenshot%202024-02-20%20213918.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/recipe-directory-app-react-example/main/_screenshots_/Screenshot%202024-02-20%20214012.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/recipe-directory-app-react-example/main/_screenshots_/Screenshot%202024-02-20%20214029.png)
+
+---
+
 ## Description
 
 Recipe Directory is a web application designed to allow users to explore, search for, and contribute recipes. It aims to solve the problem of having scattered recipes by providing a centralized platform where users can find recipes based on ingredients, cooking time, or recipe names. The project emphasizes ease of use, accessibility, and dynamic content fetching to ensure a seamless user experience.
