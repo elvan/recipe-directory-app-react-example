@@ -1,0 +1,26 @@
+.create {
+  max-width: 480px;
+  margin: 60px auto;
+  color: #555;
+}
+.create label span {
+  display: block;
+  margin: 30px 0 10px;
+}
+.create p {
+  margin-top: 10px;
+  font-size: 0.8em;
+}
+.create button {
+  display: block;
+  width: 100px;
+  margin: 20px auto;
+  padding: 8px 20px;
+  border: 0;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 1em;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: #58249c;
+}
