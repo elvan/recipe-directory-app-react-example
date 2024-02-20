@@ -1,41 +1,56 @@
 {
   "recipes": [
     {
-      "id": "1",
-      "title": "Veggie Stew",
+      "title": "Classic Fried Rice",
       "ingredients": [
-        "1 Carrot",
-        "1 Leek",
-        "200g Tofu",
-        "300ml Veg stock"
+        "2 tablespoons vegetable oil",
+        "2 eggs, beaten",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "1-2 cups mixed vegetables, chopped",
+        "4 cups cooked and chilled rice",
+        "3-4 tablespoons soy sauce",
+        "2 teaspoons sesame oil",
+        "Salt and pepper to taste"
       ],
-      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
-      "cookingTime": "45 minutes"
+      "method": "Heat oil in a large wok or skillet over medium-high heat.\nScramble the eggs in the hot oil until cooked through. Remove from the pan and set aside.\nAdd the onion and garlic to the pan and cook until softened, about 2-3 minutes.\nStir in the mixed vegetables and cook until tender-crisp, about 3-5 minutes.\nPush the vegetables to one side of the pan. Add the rice to the empty side of the pan and cook for 1-2 minutes, stirring occasionally, until slightly heated through.\nAdd the soy sauce and sesame oil to the rice and stir to coat evenly.\nIncorporate the scrambled eggs back into the pan and mix everything together.\nSeason with salt and pepper to taste.\nStir in any optional cooked protein.\nGarnish with chopped green onions (optional) and serve immediately.",
+      "cookingTime": "20 minutes",
+      "id": "43iAm8o"
     },
     {
-      "id": "2",
-      "title": "Veggie Pizza",
+      "title": "Crispy Fried Chicken",
       "ingredients": [
-        "1 Base",
-        "Tomata pasata",
-        "1 Green pepper",
-        "100g Mushrooms"
+        "2 quarts buttermilk",
+        "2 tablespoons kosher salt",
+        "1 tablespoon paprika",
+        "1 tablespoon garlic powder",
+        "1 teaspoon black pepper",
+        "1 whole chicken (around 3-4 pounds)",
+        "1 cup all-purpose flour",
+        "1 cup cornstarch",
+        "1 teaspoon onion powder",
+        "Peanut oil for frying"
       ],
-      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
-      "cookingTime": "35 minutes"
+      "method": "Prepare the brine: In a large bowl or container, whisk together the buttermilk, salt, paprika, garlic powder, black pepper, and cayenne pepper (if using).\nAdd the chicken pieces to the brine: Make sure the chicken is completely submerged. Cover and refrigerate for at least 4 hours, or overnight for best results.\nPrepare the coating: In a large bowl, whisk together the flour, cornstarch, paprika, garlic powder, onion powder, black pepper, and cayenne pepper (if using).\nHeat the oil: In a deep fryer or large Dutch oven, heat the oil to 350°F (175°C). You can test if the oil is hot enough by dipping the tip of a wooden spoon in. If it bubbles rapidly, the oil is ready.\nDredge the chicken: Remove one chicken piece from the brine and let the excess drip off. Dredge the chicken in the flour mixture, coating it completely. Shake off any excess flour.\nFry the chicken: Carefully lower the chicken piece into the hot oil. Fry for 10-12 minutes per side, or until golden brown and cooked through (internal temperature reaches 165°F). Do not overcrowd the pot, fry the chicken in batches if needed.\nDrain and rest: Transfer the fried chicken to a wire rack set over a paper towel-lined plate to drain excess oil. Let it rest for 5-10 minutes before serving.",
+      "cookingTime": "30 minutes",
+      "id": "wVe5v9z"
     },
     {
-      "id": "3",
-      "title": "Greek Salad",
+      "title": "Full English Breakfast",
       "ingredients": [
-        "1 Onion",
-        "1 Block of Feta",
-        "Olives",
-        "Tomatoes",
-        "Olive Oil"
+        "1 meat sausage",
+        "2 slices of black pudding",
+        "1/2 vine-ripened tomato",
+        "1 portobello mushroom",
+        "2 large eggs",
+        "1 can (400g) baked beans",
+        "1 slice of white bread, toasted",
+        "Knob of butter",
+        "Salt and pepper to taste"
       ],
-      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
-      "cookingTime": "35 minutes"
+      "method": "Prep and cook the sausages: Fry the sausages in a pan with a little oil until browned and cooked through. Transfer to a plate lined with paper towel to drain excess fat.\nCook the bacon: In the same pan, fry the bacon until crispy and golden brown. Transfer to the plate with the sausages.\nBlack pudding (optional): If using, fry the black pudding in the same pan for a few minutes per side until cooked through. Drain on paper towel.\nGrill the tomato and mushroom: Heat a grill pan or griddle over medium heat. Brush the tomato halves with a little oil and grill until softened and slightly charred. Grill the mushroom until tender and juicy.\nFry the eggs: Wipe out the pan and add a knob of butter. Crack the eggs into the pan and fry to your desired doneness (sunny side up, over easy, scrambled, etc.). Season with salt and pepper.\nWarm the beans: Heat the baked beans in a small saucepan over low heat until warmed through.\nToast the bread: Toast the bread and spread with butter.\nAssemble the plate: Arrange the sausages, bacon, black pudding (if using), tomato, mushroom, and eggs on a serving plate. Add the baked beans and toast alongside.\nSeason and enjoy: Season with additional salt and pepper to taste. Drizzle with your preferred sauce (ketchup, HP sauce, brown sauce, etc.) if desired. Enjoy your delicious full English breakfast!",
+      "cookingTime": "24 minutes",
+      "id": "ttKEvah"
     }
   ]
 }
